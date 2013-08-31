@@ -1,0 +1,6 @@
+c:\users\shayan\documents\visual studio 2013\Projects\SignalRServer\JavaScriptClient\bin\JavaScriptClient.dll.config
+c:\users\shayan\documents\visual studio 2013\Projects\SignalRServer\JavaScriptClient\bin\JavaScriptClient.dll
+c:\users\shayan\documents\visual studio 2013\Projects\SignalRServer\JavaScriptClient\bin\JavaScriptClient.pdb
+c:\users\shayan\documents\visual studio 2013\Projects\SignalRServer\JavaScriptClient\obj\Debug\JavaScriptClient.csprojResolveAssemblyReference.cache
+c:\users\shayan\documents\visual studio 2013\Projects\SignalRServer\JavaScriptClient\obj\Debug\JavaScriptClient.dll
+c:\users\shayan\documents\visual studio 2013\Projects\SignalRServer\JavaScriptClient\obj\Debug\JavaScriptClient.pdb

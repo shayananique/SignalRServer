@@ -1,4 +1,6 @@
-SignalRServer
-=============
+# Signalr  Self-Host Server #
+---
 
-SignalR Self-Host Server
+Server and Client Project is included in this source code.
+
+    
